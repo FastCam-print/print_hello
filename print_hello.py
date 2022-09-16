@@ -1,1 +1,1 @@
-## Print Hello
+print(123)
